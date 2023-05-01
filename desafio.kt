@@ -5,8 +5,8 @@ enum class Nivel { BASICO, INTERMEDIARIO, DIFICIL }
 val usuario: MutableList<String> = mutableListOf("Thales", "Bianca")
 val inscritos: List<String> = usuario
 
- //foi criada uma função matricular para adcionar um novo usuário 
- //a lista de inscritos retorna os nomes de todos os inscritos, incluindo novas matriculas
+ //foi criada uma função matricular para adcionar um novo usuário. 
+ //a lista de inscritos retorna os nomes de todos os inscritos, incluindo novas matriculas.
     
     fun matricular(newUsuario: String){  
     usuario.add(newUsuario) 
