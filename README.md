@@ -1,4 +1,7 @@
-# Aprenda Kotlin Com Exemplos: Desafio de Projeto (Lab)
+#Aprenda Kotlin Com Exemplos: Desafio de Projeto (Lab)
+
+##Resolução do projeto em: [desafio.kt](https://github.com/Vct-Jully/aprenda-kotlin-com-exemplos-lab/edit/main/desfio.kt)
+Desafio proposto:
 
 Desafio de Projeto criado para avaliação do conteúdo técnico explorado no repositório [aprenda-kotlin-com-exemplos](https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos). **Nesse contexto, iremos abstrair o seguinte domínio de aplicação:**
 
